@@ -4,7 +4,9 @@ Test task about back account management system
 after running migrations you can login by test manager with login = 'test' and password = 'qwerty', registration feature not implemented
 
 BAL - business access layer
+
 DAL - Data access layer
+
 TestTask.BankAccountManagement project is a API project
 
 NOTES:
