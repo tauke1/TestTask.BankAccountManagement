@@ -5,6 +5,7 @@ after running migrations you can login by test manager with login = 'test' and p
 
 BAL - business access layer
 
+
 DAL - Data access layer
 
 TestTask.BankAccountManagement project is a API project
