@@ -3,6 +3,10 @@ Test task about back account management system
 
 after running migrations you can login by test manager with login = 'test' and password = 'qwerty', registration feature not implemented
 
+BAL - business access layer
+DAL - Data access layer
+TestTask.BankAccountManagement project is a API project
+
 NOTES:
 1) No unit tests, but most of code have code "testability", even passed Expressions to repository layer can be easily verified by using Mock and Neleus.LambdaCompare nuget packages
 2) No pessimistic or optimistic locks, I know how to implement it
