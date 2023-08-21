@@ -12,3 +12,4 @@ NOTES:
 2) No pessimistic or optimistic locks, I know how to implement it
 3) Unfortunately no UI app, because Backend development consumed too much time, you can use swagger with creadentials described in start of description
 4) TestTask.BandAccountManagement.Shared was created for adding Blazor app purposes, but I did not have too much remaining  time to do it
+5) No request validations like DataAnnotations or FluentValidations, because of lack of remaining time
